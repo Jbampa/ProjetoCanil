@@ -56,6 +56,10 @@ npm start
 
 Projeto feito para praticar Node.js + TypeScript e organização de rotas/templates.
 
+![canil (1)](https://github.com/user-attachments/assets/b7772701-41e8-4bef-82d3-e903d52a7f46)
+![canil (3)](https://github.com/user-attachments/assets/46bfcc2f-15af-4890-be4a-2d6ff194ac0d)
+![canil (2)](https://github.com/user-attachments/assets/dabe4c48-c3ed-4531-b660-9bc4b269fbbb)
+
 ==================================================================
 
 English
