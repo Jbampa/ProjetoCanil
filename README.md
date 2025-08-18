@@ -16,7 +16,7 @@ Dotenv
 
 Clone o repositório
 
-git clone https://github.com/SEU_USUARIO/projetocanil.git
+git clone https://github.com/Jbampa/ProjetoCanil.git
 cd projetocanil
 
 
