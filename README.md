@@ -1,3 +1,5 @@
+Portuguese
+
 🐶 Projeto Canil - Node + TypeScript
 
 Projeto simples de canil virtual, feito com Node.js, Express, TypeScript e Mustache.
@@ -53,3 +55,66 @@ npm start
 🎯 Objetivo
 
 Projeto feito para praticar Node.js + TypeScript e organização de rotas/templates.
+
+==================================================================
+
+English
+
+🐶 Dog Shelter Project - Node + TypeScript
+
+Simple virtual dog shelter project built with Node.js, Express, TypeScript, and Mustache.
+Lists animals (dogs, cats, and fish) on separate pages.
+
+🚀 Technologies
+
+Node.js + Express
+
+TypeScript
+
+Mustache
+
+Helmet
+
+Dotenv
+
+⚙️ How to Run
+
+Clone the repository
+
+git clone https://github.com/Jbampa/ProjetoCanil.git
+cd projetocanil
+
+
+Install dependencies
+
+npm install
+
+
+Create a .env file in the root with the desired port:
+
+PORT=3000
+
+
+Run in development
+
+npm run start-dev
+
+
+Run in production
+
+npm run build
+npm start
+
+🌐 Routes
+
+/ → Lists all animals
+
+/dogs → Dogs only
+
+/cats → Cats only
+
+/fishes → Fish only
+
+🎯 Purpose
+
+Project created to practice Node.js + TypeScript and organizing routes/templates.
