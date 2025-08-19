@@ -1,11 +1,11 @@
-Portuguese
+### Portuguese
 
-🐶 Projeto Canil - Node + TypeScript
+# 🐶 Projeto Canil - Node + TypeScript
 
 Projeto simples de canil virtual, feito com Node.js, Express, TypeScript e Mustache.
 Lista animais (cachorros, gatos e peixes) em páginas separadas.
 
-🚀 Tecnologias
+## 🚀 Tecnologias
 
 Node.js + Express
 
@@ -14,9 +14,9 @@ Mustache
 Helmet 
 Dotenv 
 
-⚙️ Como rodar o projeto
+## ⚙️Como rodar o projeto
 
-Clone o repositório
+### Clone o repositório
 
 git clone https://github.com/Jbampa/ProjetoCanil.git
 cd projetocanil
@@ -24,25 +24,25 @@ cd projetocanil
 
 Instale as dependências
 
-npm install
+```npm install```
 
 
 Crie um arquivo .env na raiz com a porta desejada:
 
-PORT=3000
+```PORT=3000```
 
 
 Rodar em desenvolvimento
 
-npm run start-dev
+```npm run start-dev```
 
 
 Rodar em produção
 
-npm run build
-npm start
+```npm run build```
+```npm start```
 
-🌐 Rotas
+## 🌐 Rotas
 
 / → Lista todos os animais
 
@@ -52,7 +52,7 @@ npm start
 
 /fishes → Apenas peixes
 
-🎯 Objetivo
+### 🎯 Objetivo
 
 Projeto feito para praticar Node.js + TypeScript e organização de rotas/templates.
 
@@ -61,14 +61,14 @@ Projeto feito para praticar Node.js + TypeScript e organização de rotas/templa
 
 ==================================================================
 
-English
+### English
 
-🐶 Dog Shelter Project - Node + TypeScript
+# 🐶 Dog Shelter Project - Node + TypeScript
 
 Simple virtual dog shelter project built with Node.js, Express, TypeScript, and Mustache.
 Lists animals (dogs, cats, and fish) on separate pages.
 
-🚀 Technologies
+## 🚀 Technologies
 
 Node.js + Express
 
@@ -80,35 +80,33 @@ Helmet
 
 Dotenv
 
-⚙️ How to Run
+## ⚙️ How to Run
 
 Clone the repository
 
-git clone https://github.com/Jbampa/ProjetoCanil.git
-cd projetocanil
+```git clone https://github.com/Jbampa/ProjetoCanil.git cd projetocanil```
 
 
 Install dependencies
 
-npm install
-
+```npm install```
 
 Create a .env file in the root with the desired port:
 
-PORT=3000
+```PORT=3000```
 
 
 Run in development
 
-npm run start-dev
+```npm run start-dev```
 
 
 Run in production
 
-npm run build
-npm start
+```npm run build```
+```npm start```
 
-🌐 Routes
+## 🌐 Routes
 
 / → Lists all animals
 
@@ -118,7 +116,7 @@ npm start
 
 /fishes → Fish only
 
-🎯 Purpose
+### 🎯 Purpose
 
 Project created to practice Node.js + TypeScript and organizing routes/templates.
 
